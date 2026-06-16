@@ -1,3 +1,4 @@
+# Managed by BeyondCTCI one-way sync (force-pushed). Manual edits are not reconciled and may be overwritten by future syncs.
 def list_of_divisors(n):
   divisors = []
   i = 1
